@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 使物体进行围绕一个目标进行圆周运动
+/// </summary>
 public class CircularMotion : MonoBehaviour
 {
     // 要围绕哪个物体进行旋转
